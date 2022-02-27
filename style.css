@@ -71,10 +71,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.what-we-do-img {
-    max-height: 200px;
+    
 }
 
 .what-we-do-h2 {
@@ -82,14 +79,17 @@ p {
     font-size: 36px;
 }
 
+
 .float-left {
     float: left;
     margin-right: 25px;
+    max-height: 200px;
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
+    max-height: 200px;
 }
 
 
@@ -117,7 +117,7 @@ article h3  {
     color: #ffffff;
 }
 
-section article img {
+.benefits-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
