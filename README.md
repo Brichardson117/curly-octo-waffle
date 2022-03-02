@@ -1,1 +1,0 @@
-For this project I was tasked with Refactoring the html for a  marketing company, Horiseon. I added sematic HTML like header, body, section, article, footer, and nav. I aslo refined the css and condensed it and reorderd it to flow with the html without changing or disturbing the original look and funtion of the website.
